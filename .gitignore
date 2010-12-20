@@ -1,0 +1,10 @@
+target/*
+test-output/*
+.settings/*
+
+.DS_Store
+.project
+.classpath
+.springBeans
+
+
